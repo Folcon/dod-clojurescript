@@ -1,10 +1,20 @@
 # dod
 
-A Clojure library designed to ... well, that part is up to you.
+The beginnings of an implementation of Dice of Doom from the Land of Lisp book, written at a London Clojure Dojo.
+
+More an intent than anything really.
 
 ## Usage
 
-FIXME
+start up using:
+
+`lein ring server`
+
+
+Then in another terminal enter:
+
+`lein trampoline cljsbuild repl-listen`
+
 
 ## License
 
